@@ -1,0 +1,2 @@
+SUCCESS # GT4500
+SUCCESS # TORPEDO - ALL, but only one of the stores has missiles
