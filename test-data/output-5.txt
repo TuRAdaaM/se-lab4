@@ -1,0 +1,3 @@
+SUCCESS # GT4500
+SUCCESS # TORPEDO - SINGLE, from the primary
+SUCCESS	# TORPEDO - SINGLE, again from primary to test continuous firing ability from the same silo
