@@ -1,0 +1,2 @@
+Unknown command: 'GT45001'
+No ship has been initialized
